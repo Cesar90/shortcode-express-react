@@ -131,6 +131,5 @@ export {
   getUserProfile,
   updateUserProfile,
   getUserById,
-  getUserById,
   updateUser,
 }
